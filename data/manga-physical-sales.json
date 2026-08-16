@@ -1,0 +1,125 @@
+{
+    "information": {
+        "legend": "Ventes physique de manga",
+        "unit": "milliard de yens (¥)",
+        "src": "https://www.nippon.com/en/japan-data/h01940/"
+    },
+    "data": [
+        {
+            "year": 1995,
+            "value": 586.4
+        },
+        {
+            "year": 1996,
+            "value": 583.5
+        },
+        {
+            "year": 1997,
+            "value": 567.8
+        },
+        {
+            "year": 1998,
+            "value": 550.0
+        },
+        {
+            "year": 1999,
+            "value": 510.6
+        },
+        {
+            "year": 2000,
+            "value": 487.6
+        },
+        {
+            "year": 2001,
+            "value": 468.2
+        },
+        {
+            "year": 2002,
+            "value": 461.3
+        },
+        {
+            "year": 2003,
+            "value": 448.9
+        },
+        {
+            "year": 2004,
+            "value": 436.5
+        },
+        {
+            "year": 2005,
+            "value": 425.2
+        },
+        {
+            "year": 2006,
+            "value": 405.0
+        },
+        {
+            "year": 2007,
+            "value": 390.9
+        },
+        {
+            "year": 2008,
+            "value": 382.0
+        },
+        {
+            "year": 2009,
+            "value": 370.8
+        },
+        {
+            "year": 2010,
+            "value": 363.3
+        },
+        {
+            "year": 2011,
+            "value": 350.1
+        },
+        {
+            "year": 2012,
+            "value": 344.4
+        },
+        {
+            "year": 2013,
+            "value": 338.4
+        },
+        {
+            "year": 2014,
+            "value": 328.7
+        },
+        {
+            "year": 2015,
+            "value": 318.5
+        },
+        {
+            "year": 2016,
+            "value": 308.2
+        },
+        {
+            "year": 2017,
+            "value": 299.8
+        },
+        {
+            "year": 2018,
+            "value": 289.0
+        },
+        {
+            "year": 2019,
+            "value": 283.0
+        },
+        {
+            "year": 2020,
+            "value": 319.4
+        },
+        {
+            "year": 2021,
+            "value": 277.8
+        },
+        {
+            "year": 2022,
+            "value": 260.5
+        },
+        {
+            "year": 2023,
+            "value": 247.5
+        }
+    ]
+}

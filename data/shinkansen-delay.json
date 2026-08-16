@@ -1,0 +1,45 @@
+{
+    "information": {
+        "legend": "Retard Moyen Annuel du Shinkansen (Tokaido)",
+        "unit": "seconde",
+        "src": "https://www.nippon.com/en/views/b00713/"
+    },
+    "data": [
+        {
+            "annee": 1997,
+            "retard_secondes": 36
+        },
+        {
+            "annee": 2003,
+            "retard_secondes": 6
+        },
+        {
+            "annee": 2005,
+            "retard_secondes": 25
+        },
+        {
+            "annee": 2007,
+            "retard_secondes": 18
+        },
+        {
+            "annee": 2014,
+            "retard_secondes": 54
+        },
+        {
+            "annee": 2017,
+            "retard_secondes": 24
+        },
+        {
+            "annee": 2019,
+            "retard_secondes": 24
+        },
+        {
+            "annee": 2021,
+            "retard_secondes": 66
+        },
+        {
+            "annee": 2023,
+            "retard_secondes": 90
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "information": {
+        "legend": "Nombre de baleines tuées",
+        "unit": "Nombre de baleines tuées",
+        "src": "https://www.statista.com/statistics/1186214/japan-whaling-number/"
+    },
+    "data": [
+        {
+            "year": 2014,
+            "value": 196
+        },
+        {
+            "year": 2015,
+            "value": 520
+        },
+        {
+            "year": 2016,
+            "value": 486
+        },
+        {
+            "year": 2017,
+            "value": 569
+        },
+        {
+            "year": 2018,
+            "value": 640
+        },
+        {
+            "year": 2019,
+            "value": 331
+        },
+        {
+            "year": 2020,
+            "value": 307
+        },
+        {
+            "year": 2021,
+            "value": 383
+        },
+        {
+            "year": 2022,
+            "value": 270
+        },
+        {
+            "year": 2023,
+            "value": 294
+        }
+    ]
+}

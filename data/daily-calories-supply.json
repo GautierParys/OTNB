@@ -1,0 +1,121 @@
+{
+    "information": {
+        "legend": "Apport calorique quotidien moyen par personne.",
+        "unit": "kilocalories par jour",
+        "src": "https://ourworldindata.org/grapher/daily-per-capita-caloric-supply?time=1995..latest&country=~JPN"
+    },
+    "data": [
+        {
+            "year": 1995,
+            "value": 2892.3584
+        },
+        {
+            "year": 1996,
+            "value": 2935.2388
+        },
+        {
+            "year": 1997,
+            "value": 2909.684
+        },
+        {
+            "year": 1998,
+            "value": 2865.6682
+        },
+        {
+            "year": 1999,
+            "value": 2866.8293
+        },
+        {
+            "year": 2000,
+            "value": 2869.0398
+        },
+        {
+            "year": 2001,
+            "value": 2859.8025
+        },
+        {
+            "year": 2002,
+            "value": 2825.3484
+        },
+        {
+            "year": 2003,
+            "value": 2816.4617
+        },
+        {
+            "year": 2004,
+            "value": 2818.814
+        },
+        {
+            "year": 2005,
+            "value": 2808.336
+        },
+        {
+            "year": 2006,
+            "value": 2759.3079
+        },
+        {
+            "year": 2007,
+            "value": 2798.5552
+        },
+        {
+            "year": 2008,
+            "value": 2716.144
+        },
+        {
+            "year": 2009,
+            "value": 2657.4827
+        },
+        {
+            "year": 2010,
+            "value": 2653.3862
+        },
+        {
+            "year": 2011,
+            "value": 2661.396
+        },
+        {
+            "year": 2012,
+            "value": 2710.7686
+        },
+        {
+            "year": 2013,
+            "value": 2714.4194
+        },
+        {
+            "year": 2014,
+            "value": 2700.4211
+        },
+        {
+            "year": 2015,
+            "value": 2683.214
+        },
+        {
+            "year": 2016,
+            "value": 2678.9563
+        },
+        {
+            "year": 2017,
+            "value": 2692.5398
+        },
+        {
+            "year": 2018,
+            "value": 2657.927
+        },
+        {
+            "year": 2019,
+            "value": 2712.4763
+        },
+        {
+            "year": 2020,
+            "value": 2651.514
+        },
+        {
+            "year": 2021,
+            "value": 2652.0754
+        },
+        {
+            "year": 2022,
+            "value": 2670.09
+        }
+    ]
+}

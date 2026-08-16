@@ -1,0 +1,121 @@
+{
+    "information": {
+        "legend": "Part de la surface terrestre utilisée pour l’agriculture",
+        "unit": "pourcentage",
+        "src": "https://ourworldindata.org/grapher/share-of-land-area-used-for-agriculture?time=1995..2022&country=~JPN"
+    },
+    "data": [
+        {
+            "year": 1995,
+            "value": 15.2550745
+        },
+        {
+            "year": 1996,
+            "value": 15.089163
+        },
+        {
+            "year": 1997,
+            "value": 14.916324
+        },
+        {
+            "year": 1998,
+            "value": 14.748971
+        },
+        {
+            "year": 1999,
+            "value": 14.59808
+        },
+        {
+            "year": 2000,
+            "value": 14.4252405
+        },
+        {
+            "year": 2001,
+            "value": 14.301784
+        },
+        {
+            "year": 2002,
+            "value": 14.197531
+        },
+        {
+            "year": 2003,
+            "value": 14.101509
+        },
+        {
+            "year": 2004,
+            "value": 14.019204
+        },
+        {
+            "year": 2005,
+            "value": 13.9369
+        },
+        {
+            "year": 2006,
+            "value": 13.863923
+        },
+        {
+            "year": 2007,
+            "value": 13.790947
+        },
+        {
+            "year": 2008,
+            "value": 13.715226
+        },
+        {
+            "year": 2009,
+            "value": 13.647737
+        },
+        {
+            "year": 2010,
+            "value": 13.588477
+        },
+        {
+            "year": 2011,
+            "value": 13.495199
+        },
+        {
+            "year": 2012,
+            "value": 13.45679
+        },
+        {
+            "year": 2013,
+            "value": 13.421124
+        },
+        {
+            "year": 2014,
+            "value": 13.360768
+        },
+        {
+            "year": 2015,
+            "value": 13.294925
+        },
+        {
+            "year": 2016,
+            "value": 13.20439
+        },
+        {
+            "year": 2017,
+            "value": 13.108368
+        },
+        {
+            "year": 2018,
+            "value": 13.0205765
+        },
+        {
+            "year": 2019,
+            "value": 12.935528
+        },
+        {
+            "year": 2020,
+            "value": 12.844994
+        },
+        {
+            "year": 2021,
+            "value": 12.781893
+        },
+        {
+            "year": 2022,
+            "value": 12.716049
+        }
+    ]
+}

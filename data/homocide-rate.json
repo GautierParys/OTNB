@@ -1,0 +1,125 @@
+{
+    "information": {
+        "legend": "Nombre annuel de décès par homicide pour 100 000 habitants",
+        "unit": "Nombre annuel de décès par homicide pour 100 000 habitants",
+        "src": "https://ourworldindata.org/grapher/homicide-rate-unodc?tab=line&time=1995..latest&country=~JPN&mapSelect=~JPN"
+    },
+    "data": [
+        {
+            "year": 1995,
+            "value": 0.5760998
+        },
+        {
+            "year": 1996,
+            "value": 0.5175618
+        },
+        {
+            "year": 1997,
+            "value": 0.5623053
+        },
+        {
+            "year": 1998,
+            "value": 0.6124101
+        },
+        {
+            "year": 1999,
+            "value": 0.5804345
+        },
+        {
+            "year": 2000,
+            "value": 0.5337415
+        },
+        {
+            "year": 2001,
+            "value": 0.547697
+        },
+        {
+            "year": 2002,
+            "value": 0.5192784
+        },
+        {
+            "year": 2003,
+            "value": 0.5459334
+        },
+        {
+            "year": 2004,
+            "value": 0.54688084
+        },
+        {
+            "year": 2005,
+            "value": 0.5026841
+        },
+        {
+            "year": 2006,
+            "value": 0.48360416
+        },
+        {
+            "year": 2007,
+            "value": 0.44813052
+        },
+        {
+            "year": 2008,
+            "value": 0.5103156
+        },
+        {
+            "year": 2009,
+            "value": 0.39471897
+        },
+        {
+            "year": 2010,
+            "value": 0.36275616
+        },
+        {
+            "year": 2011,
+            "value": 0.34505254
+        },
+        {
+            "year": 2012,
+            "value": 0.33534414
+        },
+        {
+            "year": 2013,
+            "value": 0.28968793
+        },
+        {
+            "year": 2014,
+            "value": 0.30983648
+        },
+        {
+            "year": 2015,
+            "value": 0.28520724
+        },
+        {
+            "year": 2016,
+            "value": 0.2846808
+        },
+        {
+            "year": 2017,
+            "value": 0.24082221
+        },
+        {
+            "year": 2018,
+            "value": 0.26317152
+        },
+        {
+            "year": 2019,
+            "value": 0.251777
+        },
+        {
+            "year": 2020,
+            "value": 0.2517724
+        },
+        {
+            "year": 2021,
+            "value": 0.22676758
+        },
+        {
+            "year": 2022,
+            "value": 0.23120448
+        },
+        {
+            "year": 2023,
+            "value": 0.2291532
+        }
+    ]
+}

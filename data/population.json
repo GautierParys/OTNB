@@ -1,0 +1,125 @@
+{
+    "information": {
+        "legend": "Population",
+        "unit": "Nombre de personnnes vivant sur le territoire",
+        "src": "https://ourworldindata.org/grapher/population-with-un-projections?time=1995..2025&country=~JPN"
+    },
+    "data": [
+        {
+            "year": 1995,
+            "value": 125672659
+        },
+        {
+            "year": 1996,
+            "value": 125975304
+        },
+        {
+            "year": 1997,
+            "value": 126265926
+        },
+        {
+            "year": 1998,
+            "value": 126549182
+        },
+        {
+            "year": 1999,
+            "value": 126801566
+        },
+        {
+            "year": 2000,
+            "value": 127027794
+        },
+        {
+            "year": 2001,
+            "value": 127260144
+        },
+        {
+            "year": 2002,
+            "value": 127484599
+        },
+        {
+            "year": 2003,
+            "value": 127671254
+        },
+        {
+            "year": 2004,
+            "value": 127815769
+        },
+        {
+            "year": 2005,
+            "value": 127913331
+        },
+        {
+            "year": 2006,
+            "value": 127997247
+        },
+        {
+            "year": 2007,
+            "value": 128087683
+        },
+        {
+            "year": 2008,
+            "value": 128155992
+        },
+        {
+            "year": 2009,
+            "value": 128192471
+        },
+        {
+            "year": 2010,
+            "value": 128185273
+        },
+        {
+            "year": 2011,
+            "value": 128096430
+        },
+        {
+            "year": 2012,
+            "value": 127928283
+        },
+        {
+            "year": 2013,
+            "value": 127723642
+        },
+        {
+            "year": 2014,
+            "value": 127486601
+        },
+        {
+            "year": 2015,
+            "value": 127275868
+        },
+        {
+            "year": 2016,
+            "value": 127159950
+        },
+        {
+            "year": 2017,
+            "value": 127064686
+        },
+        {
+            "year": 2018,
+            "value": 126913432
+        },
+        {
+            "year": 2019,
+            "value": 126699421
+        },
+        {
+            "year": 2020,
+            "value": 126304533
+        },
+        {
+            "year": 2021,
+            "value": 125679342
+        },
+        {
+            "year": 2022,
+            "value": 124997585
+        },
+        {
+            "year": 2023,
+            "value": 124370947
+        }
+    ]
+}

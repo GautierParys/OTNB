@@ -1,0 +1,121 @@
+{
+    "information": {
+        "legend": "Les visites internationales à des fins personnelles incluent les vacances, les loisirs et la détente ; les visites à des amis et à la famille ; l’éducation et la formation ; les soins de santé et médicaux ; la religion/pèlerinages ; le shopping ; le transit ; et d’autres raisons diverses.",
+        "unit": "Nombre d'arrivées sur le territoire",
+        "src": "https://ourworldindata.org/grapher/international-trips-for-personal-reasons?tab=line&time=earliest..2022&country=~JPN"
+    },
+    "data": [
+        {
+            "year": 1995,
+            "value": 2297000
+        },
+        {
+            "year": 1996,
+            "value": 2711000
+        },
+        {
+            "year": 1997,
+            "value": 3016000
+        },
+        {
+            "year": 1998,
+            "value": 3001000
+        },
+        {
+            "year": 1999,
+            "value": 3250000
+        },
+        {
+            "year": 2000,
+            "value": 3464000
+        },
+        {
+            "year": 2001,
+            "value": 3535000
+        },
+        {
+            "year": 2002,
+            "value": 3952000
+        },
+        {
+            "year": 2003,
+            "value": 3930000
+        },
+        {
+            "year": 2004,
+            "value": 4755000
+        },
+        {
+            "year": 2005,
+            "value": 5251000
+        },
+        {
+            "year": 2006,
+            "value": 5811000
+        },
+        {
+            "year": 2007,
+            "value": 6771000
+        },
+        {
+            "year": 2008,
+            "value": 6896000
+        },
+        {
+            "year": 2009,
+            "value": 5597000
+        },
+        {
+            "year": 2010,
+            "value": 7217000
+        },
+        {
+            "year": 2011,
+            "value": 4975000
+        },
+        {
+            "year": 2012,
+            "value": 6915000
+        },
+        {
+            "year": 2013,
+            "value": 8899000
+        },
+        {
+            "year": 2014,
+            "value": 11876300
+        },
+        {
+            "year": 2015,
+            "value": 18096000
+        },
+        {
+            "year": 2016,
+            "value": 22337800
+        },
+        {
+            "year": 2017,
+            "value": 26908400
+        },
+        {
+            "year": 2018,
+            "value": 29396600
+        },
+        {
+            "year": 2019,
+            "value": 30124600
+        },
+        {
+            "year": 2020,
+            "value": 3899800
+        },
+        {
+            "year": 2021,
+            "value": 227500
+        },
+        {
+            "year": 2022,
+            "value": 3409700
+        }
+    ]
+}

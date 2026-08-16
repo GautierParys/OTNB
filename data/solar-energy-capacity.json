@@ -1,0 +1,109 @@
+{
+    "information": {
+        "legend": "Capacité installée en énergie solaire",
+        "unit": "Gigawatt",
+        "src": "https://ourworldindata.org/grapher/installed-solar-pv-capacity?country=~JPN"
+    },
+    "data": [
+        {
+            "year": 2000,
+            "value": 0.33
+        },
+        {
+            "year": 2001,
+            "value": 0.453
+        },
+        {
+            "year": 2002,
+            "value": 0.637
+        },
+        {
+            "year": 2003,
+            "value": 0.86
+        },
+        {
+            "year": 2004,
+            "value": 1.132
+        },
+        {
+            "year": 2005,
+            "value": 1.422
+        },
+        {
+            "year": 2006,
+            "value": 1.708
+        },
+        {
+            "year": 2007,
+            "value": 1.919
+        },
+        {
+            "year": 2008,
+            "value": 2.144
+        },
+        {
+            "year": 2009,
+            "value": 2.627
+        },
+        {
+            "year": 2010,
+            "value": 3.618
+        },
+        {
+            "year": 2011,
+            "value": 4.914
+        },
+        {
+            "year": 2012,
+            "value": 6.632
+        },
+        {
+            "year": 2013,
+            "value": 13.599
+        },
+        {
+            "year": 2014,
+            "value": 23.339
+        },
+        {
+            "year": 2015,
+            "value": 34.15
+        },
+        {
+            "year": 2016,
+            "value": 42.04
+        },
+        {
+            "year": 2017,
+            "value": 49.49963
+        },
+        {
+            "year": 2018,
+            "value": 56.16163
+        },
+        {
+            "year": 2019,
+            "value": 63.192
+        },
+        {
+            "year": 2020,
+            "value": 71.868
+        },
+        {
+            "year": 2021,
+            "value": 78.413
+        },
+        {
+            "year": 2022,
+            "value": 83.057
+        },
+        {
+            "year": 2023,
+            "value": 87.068
+        },
+        {
+            "year": 2024,
+            "value": 89.60133
+        }
+    ]
+}
